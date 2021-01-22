@@ -11,8 +11,8 @@
 #include <time.h>
 #include <iostream>
 
-#define INPUT_FILE_NAME "Record_focused.log"
-#define OUTPUT_FILE_NAME "Data.log"
+#define INPUT_FILE_NAME "Record.log"
+#define OUTPUT_FILE_NAME "Data_focused.log"
 
 using namespace std;
 
